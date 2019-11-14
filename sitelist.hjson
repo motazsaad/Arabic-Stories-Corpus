@@ -1,0 +1,22 @@
+{
+  "base_urls" : [
+    {
+      "url": "https://www.qisasse.com/",
+      "crawler": "RecursiveCrawler",
+    },
+     {
+      "url": "https://storiestales.com/",
+      "crawler": "RecursiveCrawler",
+    },
+     {
+      "url": "https://www.storiesrealistic.com/",
+      "crawler": "RecursiveCrawler",
+    },
+     {
+      "url": "https://www.hikayatatfal.com/",
+      "crawler": "RecursiveCrawler",
+    },
+    
+
+  ]
+}
